@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻4th year computer and systems engineering student<br>📚Autodidact<br>💽Database focused
+👨‍💻5th year computer and systems engineering student<br>📚Autodidact<br>💽Database focused
 
 
 # 💻 Tech Stack:
